@@ -1,7 +1,8 @@
-# CS
+# 📚 CS
 
 ```
-📚 CS 전공 지식 & 기술 면접 백과사전
+CS 전공 지식 & 기술 면접 백과사전📚입니다.
+개념 정리 및 인터뷰 예상 문답으로 구성되어 있습니다.
 ```
 
 ## 1. Java
@@ -101,16 +102,53 @@
 
 <br>
 
-# Algorithm
+# 💻 Algorithm
 
 ```
-💻 알고리즘 주제별 백과사전
+알고리즘 주제별 백과사전입니다.
+주제별 개념 정리 및 관련 알고리즘 문제 풀이가 포함되어 있습니다.
 ```
 
-| 주제   | 내용                                                                     | 문제                                                           | 코드                                                              |
-| ------ | ------------------------------------------------------------------------ | -------------------------------------------------------------- | ----------------------------------------------------------------- |
-| 그래프 | [최소 신장 트리 (MST: Minimum Spanning Tree)](./Algorithm/src/Graph/MST) | [1197. 최소 스패닝 트리](https://www.acmicpc.net/problem/1197) |                                                                   |
-|        | [Union Find](./Algorithm/src/Graph/UnionFind/README.md)                  | [1976. 여행가자](https://www.acmicpc.net/problem/1976)         | [코드](./Algorithm/src/Graph/UnionFind/Main_B_1976_여행가자.java) |
+## 1. 최단 거리
+
+- [Union Find](./Algorithm/src/Graph/UnionFind/README.md)
+- 최소 신장 트리 (MST: Minimum Spanning Tree)
+
+## 2. Greedy
+
+- Greedy
+
+## 3. Dynamic Programming
+
+- Dynamic Programming
+
+## 4. 이분 탐색 / 투포인터
+
+- 이분 탐색
+
+- 투포인터
+
+## 5. Brute Force, BFS, DFS, 백트래킹
+
+- Brute Force
+- BFS
+- DFS
+- 백트래킹
+
+## 6. 시뮬레이션/구현
+
+- 시뮬레이션
+- 구현
+
+## 7. 자료구조
+
+- Priority Queue
+- Stack
+- Heap
+
+### 8. ETC
+
+- etc
 
 <br>
 
@@ -118,18 +156,10 @@
 
 <br>
 
-# 정보처리기사
+## 📌 Reference
 
-```
-📝 정보처리기사 취득 일지 (취득일: 2023.09.01)
-```
-
-| 주제                     | 내용                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1. 소프트웨어 엔지니어링 | [소프트웨어의 뜻](./Engineer%20Information%20Processing/1.%20Software%20Engineering/1%20소프트웨어의%20뜻/) <br> [소프트웨어 개발 프로세스](./Engineer%20Information%20Processing/1.%20Software%20Engineering/2%20소프트웨어%20개발%20프로세스/) <br> [계획 단계](./Engineer%20Information%20Processing/1.%20Software%20Engineering/2.1%20계획%20단계/) <br> [요구사항 분석 단계](./Engineer%20Information%20Processing/1.%20Software%20Engineering/2.2%20요구사항%20분석%20단계/) <br> [설계 단계](./2.3%20설계%20단계/) <br> [구현 단계](./Engineer%20Information%20Processing/1.%20Software%20Engineering/2.4%20구현%20단계/) <br> [테스트 단계](./Engineer%20Information%20Processing/1.%20Software%20Engineering/2.5%20테스트%20단계/) |
-| 2. DB                    | [DB](./Engineer%20Information%20Processing/2.%20DB/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| 3. Network               | [Network](./Engineer%20Information%20Processing/3.%20Network/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| 4. Web                   | [Web](./Engineer%20Information%20Processing/4.%20Web/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| 5. Security              | [Security](./Engineer%20Information%20Processing/5.%20Security/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| 6. OS                    | [OS](./Engineer%20Information%20Processing/6.%20OS/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| 7. Data Structure        | [Data Structure](./Engineer%20Information%20Processing/7.%20Data%20Structure/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+- [CS-Study](https://github.com/alkwen0996/CS-Study)
+- [tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
+- [tech-interview](tech-interview)
+- [면접을 위한 CS 전공지식 노트](https://www.yes24.com/Product/Goods/108887922)
+- [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
