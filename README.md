@@ -5,10 +5,16 @@
 주제별 개념 정리 및 관련 알고리즘 문제 풀이가 포함되어 있습니다.
 ```
 
-## 1. 최단 거리
+## 1. Graph
 
 - [Union Find](./Algorithm/src/Graph/UnionFind/README.md)
-- 최소 신장 트리 (MST: Minimum Spanning Tree)
+- 최소 시잔 트리 (MST: Minimum Spanning Tree)
+- 크루스칼 알고리즘
+- 프림 알고리즘
+- 위상 정렬
+- 다익스트라(Dijkstra) 알고리즘
+- 플로이드-워셜(Floyd-Warshall) 알고리즘
+- 벨만-포드 (Bellman-Ford) 알고리즘
 
 ## 2. Greedy
 
@@ -21,7 +27,6 @@
 ## 4. 이분 탐색 / 투포인터
 
 - 이분 탐색
-
 - 투포인터
 
 ## 5. Brute Force, BFS, DFS, 백트래킹
@@ -41,10 +46,24 @@
 - Priority Queue
 - Stack
 - Heap
+- HashMap
+- trie
+- Set
+- String
+- sorting algorithm
 
 ### 8. ETC
 
-- etc
+- 누적합
+- 에라토스테네스의 체
+- 유클리드 호제법
+- 최장 공통 부분 수열 (LCS: Longest Common Subsequence)
+- 최장 증가 수열 (LIS: Longest Increasing Subsequence)
+- 라빈카프
+- KMP
+- 보이어-무어
+- 비트마스킹
+- 세그먼트 트리
 
 <br>
 
