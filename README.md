@@ -1,3 +1,56 @@
+# 💻 Algorithm
+
+```
+알고리즘 주제별 백과사전입니다.
+주제별 개념 정리 및 관련 알고리즘 문제 풀이가 포함되어 있습니다.
+```
+
+## 1. 최단 거리
+
+- [Union Find](./Algorithm/src/Graph/UnionFind/README.md)
+- 최소 신장 트리 (MST: Minimum Spanning Tree)
+
+## 2. Greedy
+
+- Greedy
+
+## 3. Dynamic Programming
+
+- Dynamic Programming
+
+## 4. 이분 탐색 / 투포인터
+
+- 이분 탐색
+
+- 투포인터
+
+## 5. Brute Force, BFS, DFS, 백트래킹
+
+- Brute Force
+- BFS
+- DFS
+- 백트래킹
+
+## 6. 시뮬레이션/구현
+
+- 시뮬레이션
+- 구현
+
+## 7. 자료구조
+
+- Priority Queue
+- Stack
+- Heap
+
+### 8. ETC
+
+- etc
+
+<br>
+
+---
+
+<br>
 # 📚 CS
 
 ```
@@ -95,60 +148,6 @@ CS 전공 지식 & 기술 면접 백과사전📚입니다.
 ## 7. ETC
 
 💬 Interview Q&A 정리본 보기
-
-<br>
-
----
-
-<br>
-
-# 💻 Algorithm
-
-```
-알고리즘 주제별 백과사전입니다.
-주제별 개념 정리 및 관련 알고리즘 문제 풀이가 포함되어 있습니다.
-```
-
-## 1. 최단 거리
-
-- [Union Find](./Algorithm/src/Graph/UnionFind/README.md)
-- 최소 신장 트리 (MST: Minimum Spanning Tree)
-
-## 2. Greedy
-
-- Greedy
-
-## 3. Dynamic Programming
-
-- Dynamic Programming
-
-## 4. 이분 탐색 / 투포인터
-
-- 이분 탐색
-
-- 투포인터
-
-## 5. Brute Force, BFS, DFS, 백트래킹
-
-- Brute Force
-- BFS
-- DFS
-- 백트래킹
-
-## 6. 시뮬레이션/구현
-
-- 시뮬레이션
-- 구현
-
-## 7. 자료구조
-
-- Priority Queue
-- Stack
-- Heap
-
-### 8. ETC
-
-- etc
 
 <br>
 
