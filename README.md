@@ -8,9 +8,9 @@
 ## 1. Graph
 
 - [Union Find](./Algorithm/src/Graph/UnionFind/README.md)
-- 최소 시잔 트리 (MST: Minimum Spanning Tree)
-- 크루스칼 알고리즘
-- 프림 알고리즘
+- [최소 스패닝 트리 (MST: Minimum Spanning Tree)](./Algorithm/src/Graph/MST/README.md)
+- [크루스칼 알고리즘](./Algorithm/src/Graph/MST/Kruskal/README.md)
+- [프림 알고리즘](./Algorithm/src/Graph/MST/Prim/README.md)
 - 위상 정렬
 - 다익스트라(Dijkstra) 알고리즘
 - 플로이드-워셜(Floyd-Warshall) 알고리즘
@@ -52,7 +52,7 @@
 - String
 - sorting algorithm
 
-### 8. ETC
+## 8. ETC
 
 - 누적합
 - 에라토스테네스의 체
@@ -70,6 +70,7 @@
 ---
 
 <br>
+
 # 📚 CS
 
 ```
