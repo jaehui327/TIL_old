@@ -1,9 +1,16 @@
-package 투포인터;
+# 투포인터
 
+left, right 두 개의 포인터를 한 칸씩 이동하면서 알맞은 값을 찾는 알고리즘으로,<br>
+시간복잡도는 O(N)입니다. <br>
+
+## 코드
+[백준 2467번 용액](https://www.acmicpc.net/problem/2467)
+
+```java
 import java.io.*;
 import java.util.*;
 
-public class Main_B_2467_용액 {
+public class Main {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -35,3 +42,4 @@ public class Main_B_2467_용액 {
         br.close();
     }
 }
+```
