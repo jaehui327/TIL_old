@@ -27,7 +27,7 @@
 ## 4. 투포인터 / 이분 탐색
 
 - [투포인터](./Algorithm/src/투포인터/투포인터/README.md)
-- 이분 탐색
+- [이분 탐색](./Algorithm/src/투포인터/이분탐색/README.md)
 
 ## 5. Brute Force, BFS, DFS, 백트래킹
 
