@@ -73,7 +73,7 @@
 
 # 📊 SQL
 
-- SELECT
+- [SELECT](./Algorithm/src/SQL/Select/README.md)
 - SUM, MAX, MIN
 - GROUP BY
 - IS NULL
