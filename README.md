@@ -31,7 +31,7 @@
 
 ## 5. Brute Force, BFS, DFS, 백트래킹
 
-- Brute Force
+- [Brute Force](./Algorithm/src/BruteForce/완전탐색/README.md)
 - BFS
 - DFS
 - 백트래킹
