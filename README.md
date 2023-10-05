@@ -10,10 +10,10 @@
 - [Union Find](./Algorithm/src/Graph/UnionFind/README.md)
 - [최소 스패닝 트리 (MST: Minimum Spanning Tree)](./Algorithm/src/Graph/MST/README.md)
 - [크루스칼 알고리즘](./Algorithm/src/Graph/MST/Kruskal/README.md)
-- [프림 알고리즘](./Algorithm/src/Graph/MST/Prim/README.md)
+- 프림 알고리즘
 - 위상 정렬
 - 다익스트라(Dijkstra) 알고리즘
-- 플로이드-워셜(Floyd-Warshall) 알고리즘
+- [플로이드-워셜(Floyd-Warshall) 알고리즘](./Algorithm/src/Graph/FloydWarshall/README.md)
 - 벨만-포드 (Bellman-Ford) 알고리즘
 
 ## 2. Greedy
