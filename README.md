@@ -76,7 +76,7 @@
 
 - [SELECT](./Algorithm/src/SQL/Select/README.md)
 - SUM, MAX, MIN
-- GROUP BY
+- [GROUP BY](./Algorithm/src/SQL/GroupBy/README.md)
 - IS NULL
 - [JOIN](./Algorithm/src/SQL/Join/README.md)
 - String, Date
