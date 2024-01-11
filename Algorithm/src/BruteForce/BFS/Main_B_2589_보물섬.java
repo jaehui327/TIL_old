@@ -3,7 +3,7 @@ package BruteForce.BFS;
 import java.io.*;
 import java.util.*;
 
-public class MainB_2589_보물섬 {
+public class Main_B_2589_보물섬 {
     static int[] dx = { 1, 0, -1, 0 }, dy = { 0, -1, 0, 1 };
     static int max;
 
