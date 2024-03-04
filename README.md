@@ -198,3 +198,4 @@ CS 전공 지식 & 기술 면접 백과사전📚입니다.
 - [tech-interview](tech-interview)
 - [면접을 위한 CS 전공지식 노트](https://www.yes24.com/Product/Goods/108887922)
 - [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+- [기술면접을 준비하는 저장소](https://github.com/jeonyeohun/Getting-Ready-For-Interview)
